@@ -1,0 +1,12 @@
+roma 100
+tana 1000
+Anya 1254
+Maks 6584
+Nickolas 451
+Player1 175
+Player2 200
+Player3 580
+Player4 180
+1 0
+1 0
+Roma 5770
