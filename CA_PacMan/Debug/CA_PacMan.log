@@ -1,127 +1,126 @@
 ﻿  Source_PacMan.cpp
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(290): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(298): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(306): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(404): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(405): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(406): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(407): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(408): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(410): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(414): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(415): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(416): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(417): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(418): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(419): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(420): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(421): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(423): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(425): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(427): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(428): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(429): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(430): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(431): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(432): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(433): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(434): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(435): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(436): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(438): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(440): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(443): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(447): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(448): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(449): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(450): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(451): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(452): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(453): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(454): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(456): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(458): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(460): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(461): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(462): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(463): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(467): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(468): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(469): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(470): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(471): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(473): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(474): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(475): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(476): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(477): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(478): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(479): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(480): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(481): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(482): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(483): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(485): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(487): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(488): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(489): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(490): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(492): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(493): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(495): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(501): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(502): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(504): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(507): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(510): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(511): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(512): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(513): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(514): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(515): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(516): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(517): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(518): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(519): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(520): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(522): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(523): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(525): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(531): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(532): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(534): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(537): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(540): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(541): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(542): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(543): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(544): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(556): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(558): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(559): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(586): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note:  см. объявление "strcpy"
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(587): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note:  см. объявление "strcpy"
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(588): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note:  см. объявление "strcpy"
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(589): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note:  см. объявление "strcpy"
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(1798): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1323): note:  см. объявление "itoa"
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(1815): warning C4101: buf: неиспользованная локальная переменная
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30D1", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30C3", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30AF", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30DE", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30F3", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u98DF", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u3079", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u308B", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u53E3", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2021): warning C4566: символ, представленный универсальным именем символа "\u200B", невозможно представить в текущей кодовой странице (1251)
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2081): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
-c:\users\rmk\desktop\шаг\oop_cpp\homework_oop\hw_12_kyrsak_pacman\ca_pacman\ca_pacman\source_pacman.cpp(2185): warning C4101: buf: неиспользованная локальная переменная
-  CA_PacMan.vcxproj -> C:\Users\RMK\Desktop\ШАГ\OOP_Cpp\HomeWork_OOP\HW_12_Kyrsak_PACMAN\CA_PacMan\Debug\CA_PacMan.exe
-  CA_PacMan.vcxproj -> C:\Users\RMK\Desktop\ШАГ\OOP_Cpp\HomeWork_OOP\HW_12_Kyrsak_PACMAN\CA_PacMan\Debug\CA_PacMan.pdb (Partial PDB)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(290): warning C4018: <: несоответствие типов со знаком и без знака
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(298): warning C4018: <: несоответствие типов со знаком и без знака
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(306): warning C4018: <: несоответствие типов со знаком и без знака
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(404): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(405): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(406): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(407): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(408): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(410): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(414): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(415): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(416): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(417): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(418): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(419): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(420): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(421): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(423): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(425): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(427): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(428): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(429): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(430): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(431): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(432): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(433): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(434): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(435): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(436): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(438): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(440): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(443): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(447): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(448): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(449): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(450): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(451): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(452): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(453): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(454): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(456): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(458): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(460): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(461): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(462): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(463): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(467): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(468): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(469): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(470): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(471): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(473): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(474): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(475): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(476): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(477): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(478): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(479): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(480): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(481): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(482): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(483): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(485): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(487): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(488): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(489): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(490): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(492): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(493): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(495): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(501): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(502): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(504): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(507): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(510): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(511): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(512): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(513): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(514): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(515): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(516): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(517): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(518): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(519): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(520): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(522): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(523): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(525): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(531): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(532): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(534): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(537): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(540): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(541): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(542): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(543): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(544): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(556): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(558): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(559): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(586): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(587): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(588): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(589): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(1798): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note:  см. объявление "itoa"
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(1815): warning C4101: buf: неиспользованная локальная переменная
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30D1", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30C3", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30AF", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30DE", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u30F3", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u98DF", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u3079", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u308B", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2009): warning C4566: символ, представленный универсальным именем символа "\u53E3", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2021): warning C4566: символ, представленный универсальным именем символа "\u200B", невозможно представить в текущей кодовой странице (1251)
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2081): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+e:\work_table\шаг\git_projects\ca_pacman\ca_pacman\source_pacman.cpp(2185): warning C4101: buf: неиспользованная локальная переменная
+  CA_PacMan.vcxproj -> E:\Work_Table\ШАГ\Git_projects\CA_PacMan\Debug\CA_PacMan.exe
